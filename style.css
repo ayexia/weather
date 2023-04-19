@@ -37,3 +37,8 @@ body{
 .degree-section h2{
     font-size:40px;
 }
+.box1 {
+    background-color: #FFF;
+    color: #000;
+    opacity: .4;
+}
